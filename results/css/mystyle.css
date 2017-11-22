@@ -1,0 +1,31 @@
+body{
+    padding:0;
+    margin:0;
+}
+
+#map{
+    width:100vw;
+    height:100vh;
+}
+
+.my-div-icon{
+    background-color:#289728;
+    color:#fff;
+    border-radius: 8px;
+    padding:5px;
+}
+
+.my-custom-control{
+    background-color: #ffffff;
+    color:#000000;
+    border-radius:8px;
+    border:1px solid #000000;
+    padding:5px;
+}
+
+.twomaps{
+    width:49vw;
+    height:100vh;
+    float:left;
+    border-right:2px solid #000;
+}
