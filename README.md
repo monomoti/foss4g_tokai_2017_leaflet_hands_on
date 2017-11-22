@@ -1,4 +1,4 @@
-#FOSS4G 2017 TOKAI LEAFLET HANDS ON
+# FOSS4G 2017 TOKAI LEAFLET HANDS ON
 
 FOSS4G 2017 TOKAIのLeafeltハンズオンの素材です。
 
@@ -9,7 +9,7 @@ FOSS4G 2017 TOKAIのLeafeltハンズオンの素材です。
 で作業します。
 
 
-##作業ファイル
+## 作業ファイル
 ./ex/index.html
 ./ex/css/mystyle.css
 ./ex/js/myapp.js
