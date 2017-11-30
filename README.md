@@ -11,8 +11,11 @@ FOSS4G 2017 TOKAIのLeafeltハンズオンの素材です。
 
 ## 作業ファイル
 ./ex/index.html
+
 ./ex/css/mystyle.css
+
 ./ex/js/myapp.js
+
 
 
 ## コピー＆ペースト素材共有スペース
